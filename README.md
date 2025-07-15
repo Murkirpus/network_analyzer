@@ -1,4 +1,3 @@
-# network_analyzer
 # Network Analyzer (ТУРБО-Анализатор)
 
 ## Обзор
